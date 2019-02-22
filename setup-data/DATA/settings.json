@@ -1,0 +1,48 @@
+{ 
+    "_id" : "DNS_REDIRECT_TO_ADDRESS", 
+    "DNS_REDIRECT_TO_ADDRESS" : "127.0.0.1"
+}
+{ 
+    "_id" : "MAX_ATTEMPTS_TO_BLOCK_IP", 
+    "MAX_ATTEMPTS_TO_BLOCK_IP" : NumberInt(2)
+}
+{ 
+    "_id" : "MAX_ATTEMPTS_TO_WARN_IP", 
+    "MAX_ATTEMPTS_TO_WARN_IP" : NumberInt(1)
+}
+{ 
+    "_id" : "MINUTES_BEFORE_IP_IS_BLOCKED", 
+    "MINUTES_BEFORE_IP_IS_BLOCKED" : NumberInt(0)
+}
+{ 
+    "_id" : "MINUTES_BEFORE_IP_IS_UNBLOCKED", 
+    "MINUTES_BEFORE_IP_IS_UNBLOCKED" : NumberInt(1440)
+}
+{ 
+    "_id" : "MAX_MINUTES_TO_KEEP_A_FEED", 
+    "MAX_MINUTES_TO_KEEP_A_FEED" : NumberInt(86400)
+}
+{ 
+    "_id" : "AUTO_UNBLOCKING_ENABLED", 
+    "AUTO_UNBLOCKING_ENABLED" : true
+}
+{ 
+    "_id" : "AUTO_BLOCKING_ENABLED", 
+    "AUTO_BLOCKING_ENABLED" : true
+}
+{ 
+    "_id" : "AUTO_CLEAR_OLD_RECORDS_ENABLED", 
+    "AUTO_CLEAR_OLD_RECORDS_ENABLED" : false
+}
+{ 
+    "_id" : "MINUTES_A_RECORD_REMAINS_NEW", 
+    "MINUTES_A_RECORD_REMAINS_NEW" : NumberInt(14400)
+}
+{ 
+    "_id" : "AUTO_DNS_REDIRECTION_ENABLED", 
+    "AUTO_DNS_REDIRECTION_ENABLED" : true
+}
+{ 
+    "_id" : "DNS_RECORD_REDIRECTION_COUNT", 
+    "DNS_RECORD_REDIRECTION_COUNT" : NumberInt(4)
+}

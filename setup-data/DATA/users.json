@@ -1,0 +1,39 @@
+{ 
+    "_id" : ObjectId("5afec3b4c0bd493f0f369c54"), 
+    "username" : "arnold", 
+    "first_name" : "katumba", 
+    "last_name" : "arnold", 
+    "email" : "katunold94@gmail.com", 
+    "password" : BinData(0, "JDJiJDEyJHR2WXJBQnhhVk5TdDBSYVhWN0l6Z2VDaHVOYkNCUDkyNzJINVlra25COXhjUUdWY0ZTV1hH"), 
+    "status" : "active", 
+    "confirmed" : true, 
+    "confirmed_on" : "2018-05-21 20:36:31", 
+    "confirmation_token" : "", 
+    "last_login" : "2018-06-28 10:35:32"
+}
+{ 
+    "_id" : ObjectId("5b072a6cc0bd495ae36726fe"), 
+    "username" : "reiosantos", 
+    "first_name" : "reio", 
+    "last_name" : "santos", 
+    "email" : "reiosantos@yahoo.com", 
+    "password" : BinData(0, "JDJiJDEyJGVGYWFaYVZOaXkydGM1NDJxakY0ZmV0QjdiMjU0Mi5ITllxWGhRSmIySlcwUFRHU082cFhl"), 
+    "status" : "active", 
+    "confirmation_token" : "", 
+    "confirmed_on" : "2018-05-25 00:13:27", 
+    "confirmed" : true, 
+    "last_login" : "2018-06-28 10:38:04"
+}
+{ 
+    "_id" : ObjectId("5b17cb6c45a9fc3d3f3748e7"), 
+    "username" : "bill", 
+    "first_name" : "mwesigwa", 
+    "last_name" : "john", 
+    "email" : "bill@bill.com", 
+    "password" : BinData(0, "JDJiJDEyJGVGYWFaYVZOaXkydGM1NDJxakY0ZmV0QjdiMjU0Mi5ITllxWGhRSmIySlcwUFRHU082cFhl"), 
+    "status" : "deactivated", 
+    "confirmation_token" : "", 
+    "confirmed_on" : "2018-05-25 00:00:00", 
+    "confirmed" : true, 
+    "last_login" : "2018-06-06 18:52:21"
+}

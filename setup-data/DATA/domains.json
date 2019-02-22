@@ -1,0 +1,936 @@
+{ 
+    "_id" : "5ugol.biz", 
+    "count" : NumberInt(4), 
+    "domain" : "5ugol.biz", 
+    "redirected" : true
+}
+{ 
+    "_id" : "adrianchambersmotorsports.com", 
+    "count" : NumberInt(3), 
+    "domain" : "adrianchambersmotorsports.com", 
+    "redirected" : false
+}
+{ 
+    "_id" : "ahomesuitehome.com", 
+    "count" : NumberInt(4), 
+    "domain" : "ahomesuitehome.com", 
+    "redirected" : true
+}
+{ 
+    "_id" : "airwreck.com", 
+    "count" : NumberInt(3), 
+    "domain" : "airwreck.com", 
+    "redirected" : false
+}
+{ 
+    "_id" : "al-azharinternationalcollege.com", 
+    "count" : NumberInt(3), 
+    "domain" : "al-azharinternationalcollege.com", 
+    "redirected" : false
+}
+{ 
+    "_id" : "albazrazgroup.com", 
+    "count" : NumberInt(1), 
+    "domain" : "albazrazgroup.com", 
+    "redirected" : false
+}
+{ 
+    "_id" : "alpinewebgroup.com", 
+    "count" : NumberInt(1), 
+    "domain" : "alpinewebgroup.com", 
+    "redirected" : false
+}
+{ 
+    "_id" : "alpretreat.com.au", 
+    "count" : NumberInt(1), 
+    "domain" : "alpretreat.com.au", 
+    "redirected" : false
+}
+{ 
+    "_id" : "amazon-sicherheit.kunden-ueberpruefung.xyz", 
+    "count" : NumberInt(7), 
+    "domain" : "amazon-sicherheit.kunden-ueberpruefung.xyz", 
+    "redirected" : true
+}
+{ 
+    "_id" : "amazonaws.com", 
+    "count" : NumberInt(5), 
+    "domain" : "amazonaws.com", 
+    "redirected" : true
+}
+{ 
+    "_id" : "amplified-dreams.com", 
+    "count" : NumberInt(4), 
+    "domain" : "amplified-dreams.com", 
+    "redirected" : true
+}
+{ 
+    "_id" : "auzonet.net", 
+    "count" : NumberInt(4), 
+    "domain" : "auzonet.net", 
+    "redirected" : true
+}
+{ 
+    "_id" : "b0ne.com", 
+    "count" : NumberInt(4), 
+    "domain" : "b0ne.com", 
+    "redirected" : true
+}
+{ 
+    "_id" : "bakino.com", 
+    "count" : NumberInt(3), 
+    "domain" : "bakino.com", 
+    "redirected" : false
+}
+{ 
+    "_id" : "barakeoman.com", 
+    "count" : NumberInt(3), 
+    "domain" : "barakeoman.com", 
+    "redirected" : false
+}
+{ 
+    "_id" : "bariklo.com", 
+    "count" : NumberInt(4), 
+    "domain" : "bariklo.com", 
+    "redirected" : true
+}
+{ 
+    "_id" : "basarteks.com", 
+    "count" : NumberInt(4), 
+    "domain" : "basarteks.com", 
+    "redirected" : true
+}
+{ 
+    "_id" : "beget.tech", 
+    "count" : NumberInt(5), 
+    "domain" : "beget.tech", 
+    "redirected" : true
+}
+{ 
+    "_id" : "benekengineering.com", 
+    "count" : NumberInt(4), 
+    "domain" : "benekengineering.com", 
+    "redirected" : true
+}
+{ 
+    "_id" : "bigbatman.bid", 
+    "count" : NumberInt(2), 
+    "domain" : "bigbatman.bid", 
+    "redirected" : false
+}
+{ 
+    "_id" : "bismillah-sourcing.com", 
+    "count" : NumberInt(1), 
+    "domain" : "bismillah-sourcing.com", 
+    "redirected" : false
+}
+{ 
+    "_id" : "bitbucket.org", 
+    "count" : NumberInt(2), 
+    "domain" : "bitbucket.org", 
+    "redirected" : false
+}
+{ 
+    "_id" : "bittabi.net", 
+    "count" : NumberInt(2), 
+    "domain" : "bittabi.net", 
+    "redirected" : false
+}
+{ 
+    "_id" : "blucollarsales.com", 
+    "count" : NumberInt(5), 
+    "domain" : "blucollarsales.com", 
+    "redirected" : true
+}
+{ 
+    "_id" : "boomer75.de", 
+    "count" : NumberInt(7), 
+    "domain" : "boomer75.de", 
+    "redirected" : true
+}
+{ 
+    "_id" : "c-daiko.com", 
+    "count" : NumberInt(5), 
+    "domain" : "c-daiko.com", 
+    "redirected" : true
+}
+{ 
+    "_id" : "chanvribloc.com", 
+    "count" : NumberInt(4), 
+    "domain" : "chanvribloc.com", 
+    "redirected" : true
+}
+{ 
+    "_id" : "chimachinenow.com", 
+    "count" : NumberInt(6), 
+    "domain" : "chimachinenow.com", 
+    "redirected" : true
+}
+{ 
+    "_id" : "chouett-vacances.com", 
+    "count" : NumberInt(2), 
+    "domain" : "chouett-vacances.com", 
+    "redirected" : false
+}
+{ 
+    "_id" : "corepoetry.com", 
+    "count" : NumberInt(2), 
+    "domain" : "corepoetry.com", 
+    "redirected" : false
+}
+{ 
+    "_id" : "danieloliveira.eti.br", 
+    "count" : NumberInt(3), 
+    "domain" : "danieloliveira.eti.br", 
+    "redirected" : false
+}
+{ 
+    "_id" : "delmonicositaliansteakhouse.com", 
+    "count" : NumberInt(4), 
+    "domain" : "delmonicositaliansteakhouse.com", 
+    "redirected" : true
+}
+{ 
+    "_id" : "denmarkheating.net", 
+    "count" : NumberInt(1), 
+    "domain" : "denmarkheating.net", 
+    "redirected" : false
+}
+{ 
+    "_id" : "dianportalcomco.com", 
+    "count" : NumberInt(4), 
+    "domain" : "dianportalcomco.com", 
+    "redirected" : true
+}
+{ 
+    "_id" : "dicker.com.br", 
+    "count" : NumberInt(5), 
+    "domain" : "dicker.com.br", 
+    "redirected" : true
+}
+{ 
+    "_id" : "diverdonis.com", 
+    "count" : NumberInt(5), 
+    "domain" : "diverdonis.com", 
+    "redirected" : true
+}
+{ 
+    "_id" : "dq9wq1wdq9wd1.com", 
+    "count" : NumberInt(6), 
+    "domain" : "dq9wq1wdq9wd1.com", 
+    "redirected" : true
+}
+{ 
+    "_id" : "ecigz.com.au", 
+    "count" : NumberInt(5), 
+    "domain" : "ecigz.com.au", 
+    "redirected" : true
+}
+{ 
+    "_id" : "efficientmarketing.com.au", 
+    "count" : NumberInt(2), 
+    "domain" : "efficientmarketing.com.au", 
+    "redirected" : false
+}
+{ 
+    "_id" : "elssots.com", 
+    "count" : NumberInt(4), 
+    "domain" : "elssots.com", 
+    "redirected" : true
+}
+{ 
+    "_id" : "emifile.com", 
+    "count" : NumberInt(2), 
+    "domain" : "emifile.com", 
+    "redirected" : false
+}
+{ 
+    "_id" : "emulsiflex.com", 
+    "count" : NumberInt(7), 
+    "domain" : "emulsiflex.com", 
+    "redirected" : true
+}
+{ 
+    "_id" : "erlivia.ltd", 
+    "count" : NumberInt(1), 
+    "domain" : "erlivia.ltd", 
+    "redirected" : false
+}
+{ 
+    "_id" : "esco.com.eg", 
+    "count" : NumberInt(2), 
+    "domain" : "esco.com.eg", 
+    "redirected" : false
+}
+{ 
+    "_id" : "fatafati.net", 
+    "count" : NumberInt(3), 
+    "domain" : "fatafati.net", 
+    "redirected" : false
+}
+{ 
+    "_id" : "fauxfursandrealrags.com", 
+    "count" : NumberInt(3), 
+    "domain" : "fauxfursandrealrags.com", 
+    "redirected" : false
+}
+{ 
+    "_id" : "felixuco.com", 
+    "count" : NumberInt(1), 
+    "domain" : "felixuco.com", 
+    "redirected" : false
+}
+{ 
+    "_id" : "finnessemedia.com", 
+    "count" : NumberInt(3), 
+    "domain" : "finnessemedia.com", 
+    "redirected" : false
+}
+{ 
+    "_id" : "g8q4wdas7d.com", 
+    "count" : NumberInt(1), 
+    "domain" : "g8q4wdas7d.com", 
+    "redirected" : false
+}
+{ 
+    "_id" : "galeona.com", 
+    "count" : NumberInt(3), 
+    "domain" : "galeona.com", 
+    "redirected" : false
+}
+{ 
+    "_id" : "gamers-by-night.com", 
+    "count" : NumberInt(2), 
+    "domain" : "gamers-by-night.com", 
+    "redirected" : false
+}
+{ 
+    "_id" : "githubusercontent.com", 
+    "count" : NumberInt(6), 
+    "domain" : "githubusercontent.com", 
+    "redirected" : true
+}
+{ 
+    "_id" : "greatoric.com", 
+    "count" : NumberInt(2), 
+    "domain" : "greatoric.com", 
+    "redirected" : false
+}
+{ 
+    "_id" : "gsghost.pro", 
+    "count" : NumberInt(1), 
+    "domain" : "gsghost.pro", 
+    "redirected" : false
+}
+{ 
+    "_id" : "h-g.at", 
+    "count" : NumberInt(5), 
+    "domain" : "h-g.at", 
+    "redirected" : true
+}
+{ 
+    "_id" : "halimofset.com.tr", 
+    "count" : NumberInt(1), 
+    "domain" : "halimofset.com.tr", 
+    "redirected" : false
+}
+{ 
+    "_id" : "hanirnail.net", 
+    "count" : NumberInt(5), 
+    "domain" : "hanirnail.net", 
+    "redirected" : true
+}
+{ 
+    "_id" : "hawkgrute.men", 
+    "count" : NumberInt(3), 
+    "domain" : "hawkgrute.men", 
+    "redirected" : false
+}
+{ 
+    "_id" : "imagesbr.com", 
+    "count" : NumberInt(4), 
+    "domain" : "imagesbr.com", 
+    "redirected" : true
+}
+{ 
+    "_id" : "img001.com", 
+    "count" : NumberInt(2), 
+    "domain" : "img001.com", 
+    "redirected" : false
+}
+{ 
+    "_id" : "imgfarm.com", 
+    "count" : NumberInt(3), 
+    "domain" : "imgfarm.com", 
+    "redirected" : false
+}
+{ 
+    "_id" : "indiscriminate.co.uk", 
+    "count" : NumberInt(1), 
+    "domain" : "indiscriminate.co.uk", 
+    "redirected" : false
+}
+{ 
+    "_id" : "indostraits.co.id", 
+    "count" : NumberInt(6), 
+    "domain" : "indostraits.co.id", 
+    "redirected" : true
+}
+{ 
+    "_id" : "infinitcenter.com", 
+    "count" : NumberInt(2), 
+    "domain" : "infinitcenter.com", 
+    "redirected" : false
+}
+{ 
+    "_id" : "infodayclubhai.com", 
+    "count" : NumberInt(1), 
+    "domain" : "infodayclubhai.com", 
+    "redirected" : false
+}
+{ 
+    "_id" : "iniwarinta.date", 
+    "count" : NumberInt(2), 
+    "domain" : "iniwarinta.date", 
+    "redirected" : false
+}
+{ 
+    "_id" : "interbanx.co.id", 
+    "count" : NumberInt(3), 
+    "domain" : "interbanx.co.id", 
+    "redirected" : false
+}
+{ 
+    "_id" : "internationalcon.com", 
+    "count" : NumberInt(3), 
+    "domain" : "internationalcon.com", 
+    "redirected" : false
+}
+{ 
+    "_id" : "ironontransfers.top", 
+    "count" : NumberInt(2), 
+    "domain" : "ironontransfers.top", 
+    "redirected" : false
+}
+{ 
+    "_id" : "jasoncevera.com", 
+    "count" : NumberInt(1), 
+    "domain" : "jasoncevera.com", 
+    "redirected" : false
+}
+{ 
+    "_id" : "kavzatemizlikurunleri.com", 
+    "count" : NumberInt(1), 
+    "domain" : "kavzatemizlikurunleri.com", 
+    "redirected" : false
+}
+{ 
+    "_id" : "kikeocrospoma.com", 
+    "count" : NumberInt(5), 
+    "domain" : "kikeocrospoma.com", 
+    "redirected" : true
+}
+{ 
+    "_id" : "kripton.net", 
+    "count" : NumberInt(3), 
+    "domain" : "kripton.net", 
+    "redirected" : false
+}
+{ 
+    "_id" : "kuai-go.com", 
+    "count" : NumberInt(1), 
+    "domain" : "kuai-go.com", 
+    "redirected" : false
+}
+{ 
+    "_id" : "lalecitinadesoja.com", 
+    "count" : NumberInt(4), 
+    "domain" : "lalecitinadesoja.com", 
+    "redirected" : true
+}
+{ 
+    "_id" : "laurelhillinn.com", 
+    "count" : NumberInt(1), 
+    "domain" : "laurelhillinn.com", 
+    "redirected" : false
+}
+{ 
+    "_id" : "lingerieworld.club", 
+    "count" : NumberInt(3), 
+    "domain" : "lingerieworld.club", 
+    "redirected" : false
+}
+{ 
+    "_id" : "majesticraft.com", 
+    "count" : NumberInt(2), 
+    "domain" : "majesticraft.com", 
+    "redirected" : false
+}
+{ 
+    "_id" : "matertieka.com", 
+    "count" : NumberInt(1), 
+    "domain" : "matertieka.com", 
+    "redirected" : false
+}
+{ 
+    "_id" : "mcts-qatar.com", 
+    "count" : NumberInt(4), 
+    "domain" : "mcts-qatar.com", 
+    "redirected" : true
+}
+{ 
+    "_id" : "melondisc.co.th", 
+    "count" : NumberInt(4), 
+    "domain" : "melondisc.co.th", 
+    "redirected" : true
+}
+{ 
+    "_id" : "mervinsaat.com.tr", 
+    "count" : NumberInt(4), 
+    "domain" : "mervinsaat.com.tr", 
+    "redirected" : true
+}
+{ 
+    "_id" : "milehighhomebuyers.com", 
+    "count" : NumberInt(4), 
+    "domain" : "milehighhomebuyers.com", 
+    "redirected" : true
+}
+{ 
+    "_id" : "minami.com.tw", 
+    "count" : NumberInt(2), 
+    "domain" : "minami.com.tw", 
+    "redirected" : false
+}
+{ 
+    "_id" : "minglebyyou.com", 
+    "count" : NumberInt(1), 
+    "domain" : "minglebyyou.com", 
+    "redirected" : false
+}
+{ 
+    "_id" : "mirusstaffing.com", 
+    "count" : NumberInt(2), 
+    "domain" : "mirusstaffing.com", 
+    "redirected" : false
+}
+{ 
+    "_id" : "mokerton.com", 
+    "count" : NumberInt(6), 
+    "domain" : "mokerton.com", 
+    "redirected" : true
+}
+{ 
+    "_id" : "momerton.com", 
+    "count" : NumberInt(6), 
+    "domain" : "momerton.com", 
+    "redirected" : true
+}
+{ 
+    "_id" : "moussas.net", 
+    "count" : NumberInt(3), 
+    "domain" : "moussas.net", 
+    "redirected" : false
+}
+{ 
+    "_id" : "mouzze.had.su", 
+    "count" : NumberInt(6), 
+    "domain" : "mouzze.had.su", 
+    "redirected" : true
+}
+{ 
+    "_id" : "my-dhl-invoice.top", 
+    "count" : NumberInt(4), 
+    "domain" : "my-dhl-invoice.top", 
+    "redirected" : true
+}
+{ 
+    "_id" : "mygooseworks.com", 
+    "count" : NumberInt(3), 
+    "domain" : "mygooseworks.com", 
+    "redirected" : false
+}
+{ 
+    "_id" : "nacllc.com", 
+    "count" : NumberInt(1), 
+    "domain" : "nacllc.com", 
+    "redirected" : false
+}
+{ 
+    "_id" : "naps-gear.com", 
+    "count" : NumberInt(2), 
+    "domain" : "naps-gear.com", 
+    "redirected" : false
+}
+{ 
+    "_id" : "natoinc.com", 
+    "count" : NumberInt(4), 
+    "domain" : "natoinc.com", 
+    "redirected" : true
+}
+{ 
+    "_id" : "nepalhiking.com", 
+    "count" : NumberInt(1), 
+    "domain" : "nepalhiking.com", 
+    "redirected" : false
+}
+{ 
+    "_id" : "nepapiano.com", 
+    "count" : NumberInt(1), 
+    "domain" : "nepapiano.com", 
+    "redirected" : false
+}
+{ 
+    "_id" : "notificacione.org", 
+    "count" : NumberInt(4), 
+    "domain" : "notificacione.org", 
+    "redirected" : true
+}
+{ 
+    "_id" : "nutrisea.net", 
+    "count" : NumberInt(1), 
+    "domain" : "nutrisea.net", 
+    "redirected" : false
+}
+{ 
+    "_id" : "nveeusa.com", 
+    "count" : NumberInt(2), 
+    "domain" : "nveeusa.com", 
+    "redirected" : false
+}
+{ 
+    "_id" : "oddbods.co.uk", 
+    "count" : NumberInt(3), 
+    "domain" : "oddbods.co.uk", 
+    "redirected" : false
+}
+{ 
+    "_id" : "onetimewonders.com", 
+    "count" : NumberInt(1), 
+    "domain" : "onetimewonders.com", 
+    "redirected" : false
+}
+{ 
+    "_id" : "online234.com", 
+    "count" : NumberInt(3), 
+    "domain" : "online234.com", 
+    "redirected" : false
+}
+{ 
+    "_id" : "onyx.co.za", 
+    "count" : NumberInt(2), 
+    "domain" : "onyx.co.za", 
+    "redirected" : false
+}
+{ 
+    "_id" : "orbisinc.com", 
+    "count" : NumberInt(2), 
+    "domain" : "orbisinc.com", 
+    "redirected" : false
+}
+{ 
+    "_id" : "pagalsamjhahua.com", 
+    "count" : NumberInt(4), 
+    "domain" : "pagalsamjhahua.com", 
+    "redirected" : true
+}
+{ 
+    "_id" : "photoscape.ch", 
+    "count" : NumberInt(3), 
+    "domain" : "photoscape.ch", 
+    "redirected" : false
+}
+{ 
+    "_id" : "planetferguson.net", 
+    "count" : NumberInt(2), 
+    "domain" : "planetferguson.net", 
+    "redirected" : false
+}
+{ 
+    "_id" : "pointbdance.com", 
+    "count" : NumberInt(2), 
+    "domain" : "pointbdance.com", 
+    "redirected" : false
+}
+{ 
+    "_id" : "polymage.com.cy", 
+    "count" : NumberInt(3), 
+    "domain" : "polymage.com.cy", 
+    "redirected" : false
+}
+{ 
+    "_id" : "positivebusinessimages.com", 
+    "count" : NumberInt(5), 
+    "domain" : "positivebusinessimages.com", 
+    "redirected" : true
+}
+{ 
+    "_id" : "q5q1wdq41dqwd.com", 
+    "count" : NumberInt(7), 
+    "domain" : "q5q1wdq41dqwd.com", 
+    "redirected" : true
+}
+{ 
+    "_id" : "qwd1qw8d4q1wd.com", 
+    "count" : NumberInt(6), 
+    "domain" : "qwd1qw8d4q1wd.com", 
+    "redirected" : true
+}
+{ 
+    "_id" : "qwdqwdqwd19.com", 
+    "count" : NumberInt(3), 
+    "domain" : "qwdqwdqwd19.com", 
+    "redirected" : false
+}
+{ 
+    "_id" : "rdbusiness.co.za", 
+    "count" : NumberInt(4), 
+    "domain" : "rdbusiness.co.za", 
+    "redirected" : true
+}
+{ 
+    "_id" : "repairlabshost.com", 
+    "count" : NumberInt(4), 
+    "domain" : "repairlabshost.com", 
+    "redirected" : true
+}
+{ 
+    "_id" : "ricepeopl.com", 
+    "count" : NumberInt(1), 
+    "domain" : "ricepeopl.com", 
+    "redirected" : false
+}
+{ 
+    "_id" : "rosstec.net", 
+    "count" : NumberInt(1), 
+    "domain" : "rosstec.net", 
+    "redirected" : false
+}
+{ 
+    "_id" : "rsaustria.com", 
+    "count" : NumberInt(1), 
+    "domain" : "rsaustria.com", 
+    "redirected" : false
+}
+{ 
+    "_id" : "sarahdaniella.com", 
+    "count" : NumberInt(8), 
+    "domain" : "sarahdaniella.com", 
+    "redirected" : true
+}
+{ 
+    "_id" : "securechile.org", 
+    "count" : NumberInt(3), 
+    "domain" : "securechile.org", 
+    "redirected" : false
+}
+{ 
+    "_id" : "sentieriselvaggi.org", 
+    "count" : NumberInt(2), 
+    "domain" : "sentieriselvaggi.org", 
+    "redirected" : false
+}
+{ 
+    "_id" : "siaraya.com", 
+    "count" : NumberInt(1), 
+    "domain" : "siaraya.com", 
+    "redirected" : false
+}
+{ 
+    "_id" : "spearllc.com", 
+    "count" : NumberInt(1), 
+    "domain" : "spearllc.com", 
+    "redirected" : false
+}
+{ 
+    "_id" : "stockpickssystem.com", 
+    "count" : NumberInt(2), 
+    "domain" : "stockpickssystem.com", 
+    "redirected" : false
+}
+{ 
+    "_id" : "sunraygroups.com", 
+    "count" : NumberInt(2), 
+    "domain" : "sunraygroups.com", 
+    "redirected" : false
+}
+{ 
+    "_id" : "sweatshop.org", 
+    "count" : NumberInt(4), 
+    "domain" : "sweatshop.org", 
+    "redirected" : true
+}
+{ 
+    "_id" : "t8q79q8wdqw1d.com", 
+    "count" : NumberInt(6), 
+    "domain" : "t8q79q8wdqw1d.com", 
+    "redirected" : true
+}
+{ 
+    "_id" : "tabandehgostar.com", 
+    "count" : NumberInt(1), 
+    "domain" : "tabandehgostar.com", 
+    "redirected" : false
+}
+{ 
+    "_id" : "textspeier.de", 
+    "count" : NumberInt(3), 
+    "domain" : "textspeier.de", 
+    "redirected" : false
+}
+{ 
+    "_id" : "the-nightmare.com", 
+    "count" : NumberInt(5), 
+    "domain" : "the-nightmare.com", 
+    "redirected" : true
+}
+{ 
+    "_id" : "theinvisiblestudios.com", 
+    "count" : NumberInt(3), 
+    "domain" : "theinvisiblestudios.com", 
+    "redirected" : false
+}
+{ 
+    "_id" : "thejutefibersbd.com", 
+    "count" : NumberInt(1), 
+    "domain" : "thejutefibersbd.com", 
+    "redirected" : false
+}
+{ 
+    "_id" : "theparkers.id.au", 
+    "count" : NumberInt(2), 
+    "domain" : "theparkers.id.au", 
+    "redirected" : false
+}
+{ 
+    "_id" : "tonetdog.com", 
+    "count" : NumberInt(5), 
+    "domain" : "tonetdog.com", 
+    "redirected" : true
+}
+{ 
+    "_id" : "topline.com.sa", 
+    "count" : NumberInt(1), 
+    "domain" : "topline.com.sa", 
+    "redirected" : false
+}
+{ 
+    "_id" : "transientmediagroup.com", 
+    "count" : NumberInt(6), 
+    "domain" : "transientmediagroup.com", 
+    "redirected" : true
+}
+{ 
+    "_id" : "tvaradze.com", 
+    "count" : NumberInt(1), 
+    "domain" : "tvaradze.com", 
+    "redirected" : false
+}
+{ 
+    "_id" : "unitedtranslations.com.au", 
+    "count" : NumberInt(6), 
+    "domain" : "unitedtranslations.com.au", 
+    "redirected" : true
+}
+{ 
+    "_id" : "upgradeerap.com", 
+    "count" : NumberInt(4), 
+    "domain" : "upgradeerap.com", 
+    "redirected" : true
+}
+{ 
+    "_id" : "vacsewcenter.com", 
+    "count" : NumberInt(3), 
+    "domain" : "vacsewcenter.com", 
+    "redirected" : false
+}
+{ 
+    "_id" : "vafersoma.com", 
+    "count" : NumberInt(2), 
+    "domain" : "vafersoma.com", 
+    "redirected" : false
+}
+{ 
+    "_id" : "valcocchiararetreat.com", 
+    "count" : NumberInt(5), 
+    "domain" : "valcocchiararetreat.com", 
+    "redirected" : true
+}
+{ 
+    "_id" : "vigovrus84.had.su", 
+    "count" : NumberInt(2), 
+    "domain" : "vigovrus84.had.su", 
+    "redirected" : false
+}
+{ 
+    "_id" : "violet-eg.com", 
+    "count" : NumberInt(2), 
+    "domain" : "violet-eg.com", 
+    "redirected" : false
+}
+{ 
+    "_id" : "visoftechmea.com", 
+    "count" : NumberInt(3), 
+    "domain" : "visoftechmea.com", 
+    "redirected" : false
+}
+{ 
+    "_id" : "walley.org", 
+    "count" : NumberInt(1), 
+    "domain" : "walley.org", 
+    "redirected" : false
+}
+{ 
+    "_id" : "weeknews.pro", 
+    "count" : NumberInt(6), 
+    "domain" : "weeknews.pro", 
+    "redirected" : true
+}
+{ 
+    "_id" : "willemjan.info", 
+    "count" : NumberInt(1), 
+    "domain" : "willemjan.info", 
+    "redirected" : false
+}
+{ 
+    "_id" : "wizbongre.co.uk", 
+    "count" : NumberInt(1), 
+    "domain" : "wizbongre.co.uk", 
+    "redirected" : false
+}
+{ 
+    "_id" : "www.mva.by", 
+    "count" : NumberInt(4), 
+    "domain" : "www.mva.by", 
+    "redirected" : true
+}
+{ 
+    "_id" : "xn--m3cdha3exabl1bc9a7s.com", 
+    "count" : NumberInt(4), 
+    "domain" : "xn--m3cdha3exabl1bc9a7s.com", 
+    "redirected" : true
+}
+{ 
+    "_id" : "yalinosgb.com", 
+    "count" : NumberInt(2), 
+    "domain" : "yalinosgb.com", 
+    "redirected" : false
+}
+{ 
+    "_id" : "ysabelgonzalez.com", 
+    "count" : NumberInt(3), 
+    "domain" : "ysabelgonzalez.com", 
+    "redirected" : false
+}
+{ 
+    "_id" : "ziscvhneqwfwehif.com", 
+    "count" : NumberInt(2), 
+    "domain" : "ziscvhneqwfwehif.com", 
+    "redirected" : false
+}
+{ 
+    "_id" : "zol.com.cn", 
+    "count" : NumberInt(1), 
+    "domain" : "zol.com.cn", 
+    "redirected" : false
+}

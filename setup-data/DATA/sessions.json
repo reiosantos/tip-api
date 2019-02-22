@@ -1,0 +1,26 @@
+{ 
+    "_id" : ObjectId("5b348fc495a23d896240937b"), 
+    "sid" : "cb321f6c-6737-494a-8ad9-619697574d3a", 
+    "data" : {
+        "username" : "arnold", 
+        "email" : "katunold94@gmail.com", 
+        "is_logged_in" : true, 
+        "user_id" : ObjectId("5afec3b4c0bd493f0f369c54"), 
+        "token" : "c2e3d9841a4f234b1a820aaf14a0885663ffbd25", 
+        "expiration" : "2018-06-28 12:35:32"
+    }, 
+    "expiration" : ISODate("2018-06-28T08:35:32.410+0000")
+}
+{ 
+    "_id" : ObjectId("5b34905c95a23d896240a8ee"), 
+    "sid" : "082a741a-5812-4ad8-97f6-ea4e89d53924", 
+    "data" : {
+        "username" : "reiosantos", 
+        "email" : "reiosantos@yahoo.com", 
+        "is_logged_in" : true, 
+        "user_id" : ObjectId("5b072a6cc0bd495ae36726fe"), 
+        "token" : "e7a216030202f61509d36f46482a61c317c597e9", 
+        "expiration" : "2018-06-28 12:38:04"
+    }, 
+    "expiration" : ISODate("2018-06-28T08:38:04.969+0000")
+}
